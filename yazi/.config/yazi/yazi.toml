@@ -1,0 +1,9 @@
+[mgr]
+show_hidden = true
+[opener]
+edit = [
+	{ run = '${EDITOR:-nvim} "$@"', desc = "$EDITOR", block = true, for = "unix" },
+]
+[preview]
+max_width = 1500 # Or some other higher number
+max_height = 1500
