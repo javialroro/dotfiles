@@ -77,7 +77,7 @@ This repository contains all the files and directories I use to customize my dai
 git clone https://github.com/javialroro/dotfiles.git ~/dotfiles
 ```
 
-2. **Create symbolic links** (example using GNU Stow):
+2. **Create symbolic links** (using GNU Stow):
 
 ```bash
 cd ~/dotfiles
