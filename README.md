@@ -90,5 +90,3 @@ stow */
 
 > ⚠️ **Note:** This setup is tailored for **Linux** users with Wayland, and assumes you have `stow` installed for symlinking.
 > Customize paths and configs as needed.
-
-```
