@@ -99,3 +99,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+export PATH="$HOME/.opam/4.14.1/bin:$PATH"
+alias neofetch='~/.config/neofetch/animated-neofetch.sh'

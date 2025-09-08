@@ -22,6 +22,13 @@ This repository contains all the files and directories I use to customize my dai
 │   └── .config/kitty
 │       ├── current-theme.conf
 │       └── kitty.conf
+├── neofetch
+│   └── .config/neofetch
+│       ├── animated-neofetch.sh
+│       ├── config.conf
+│       ├── frames_colour/
+│       ├── myascii.txt
+│       └── README.md
 ├── nvim
 │   └── .config/nvim
 │       ├── init.lua
@@ -60,6 +67,7 @@ This repository contains all the files and directories I use to customize my dai
 | **Hyprland**        | Dynamic window manager for Wayland (currently not using it).           |
 | **Waybar**          | Customizable status bar (currently not using it).                      |
 | **Neovim**          | Text editor, configured with LazyVim. |
+| **Neofetch**        | System info tool with custom animated ASCII art (using PewDiePie's configuration). |
 | **tmux**            | Terminal multiplexer for managing sessions.   |
 | **Ghostty & Kitty** | Fast and modern terminals.                    |
 | **Starship**        | Minimal and fast prompt.                      |
